@@ -1,4 +1,4 @@
 github-demo
 ===========
 
-GitHub Demo
+Here's some demo in-place edited text!
